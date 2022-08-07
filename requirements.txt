@@ -1,0 +1,9 @@
+sklearn
+numpy
+scipy
+scikit-learn
+seaborn
+pandas
+matplotlib
+ta-lib
+akshare
